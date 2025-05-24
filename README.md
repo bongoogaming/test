@@ -22,13 +22,13 @@
 
 #
 
-## Badges
+## Badges/Shields
 
 ![Badge](https://img.shields.io/badge/oh-no-red)
 
 ![Badge2](https://img.shields.io/badge/normal-yellow-yellow)
 
-(generate badge with https://img.shields.io)
+(generate these with https://shields.io)
 #
 
 ## Other Stuff
@@ -36,6 +36,9 @@
 _Italic_
 
 `Code`
+
+    
+    You can copy this text!
 
 
 <sup>Superscript</sup>
