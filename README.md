@@ -1,6 +1,6 @@
-# 👋 bongoogaming/test
+# test
 > [!NOTE]
-> This ***was*** meant to be a private repo, but this is just for me testing *"fancy"* stuff for READMEs. Not sure if I should keep this up as private...
+> This ***was*** meant to be a private repo, but this is just for me testing *"fancy"* stuff for READMEs, soo... i'm not sure if I should keep this up as private, or public...
 #
 
 ## Alerts Testing
@@ -49,3 +49,7 @@ _Italic_
 ## 2 
 ### 3 
 #### 4
+
+
+
+
